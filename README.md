@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">API Documentation</h1>
-<h3>- Median API Description</h3>
+<h3>- Swagger</h3>
 
 #### API Description
 ```http 
