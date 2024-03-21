@@ -44,3 +44,10 @@ POST http://localhost:3000/api/auth/refresh
 #### Required "access_token" in Bearer.
 
 #### Returns JSON with "access_token" and "refresh_token".
+
+## DOTENV
+```ts
+DATABASE_URL="MySQL connect url"
+JWT_SECRET="Secret one"
+JWT_REFRESH_SECRET="Secret two"
+```
